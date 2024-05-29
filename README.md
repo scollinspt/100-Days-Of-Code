@@ -16,7 +16,7 @@
 ### Day 1: May 25, 2024
 **Today's Progress**: Got Linux installed on Dell XPS 9520 laptop and installed IntellJ java IDE and VIM for use of CLI to get comfortable with terminal text editing for simple programs
 **Thoughts**: Great to get started using Linux since it will force me to understand and interact with more of the computer architecture and is a good step towards building embedded and automated systems for clinical use
-**Link to work**: All code for chapter 1 of CSI is being kept in the (repo called hello linked here)[https://github.com/scollinspt/hello]
+**Link to work**: All code for chapter 1 of CSI is being kept in the repo called hello linked here: [https://github.com/scollinspt/hello]
 
 ### Day 2: May 26, 20204
 **Today's Progress**: Worked on code from CSI chapter 1, Programs 1.2.1, 1.2.2 and 1.2.3
