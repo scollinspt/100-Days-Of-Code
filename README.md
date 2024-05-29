@@ -19,29 +19,47 @@
 
 ## Log
 
-### Day 1: May 25, 2024
+### Day 1: Saturday May 25, 2024
 
 **Today's Progress**: Got Linux installed on Dell XPS 9520 laptop and installed IntellJ java IDE and VIM for use of CLI to get comfortable with terminal text editing for simple programs
 **Thoughts**: Great to get started using Linux since it will force me to understand and interact with more of the computer architecture and is a good step towards building embedded and automated systems for clinical use
 **Link to work**: All code for chapter 1 of CSI is being kept in the repo called hello linked here: [https://github.com/scollinspt/hello]
 
-### Day 2: May 26, 2024
+### Day 2: Monday May 27, 2024
 
 **Today's Progress**: Worked on code from CSI chapter 1, Programs 1.2.1, 1.2.2 and 1.2.3
 **Thoughts**: Used IntellJ IDE today, should really try to get comfortable with Vim since it will be easier for small programs and it will be easier to change to IntellJ from Vim, than vice versa. There must be a reason why Vim is still popular!
 
-### Day 3: May 28, 2024
+### Day 3: Tuesday May 28, 2024
 
 **Today's Progress**: Worked on code from CSI chapter 1, program 1.2.4
 **Thoughts**: Used Vim from the linux terminal, I now have a better understanding of it's popularity. As you get comfortable with the flow its easier to use than other text editors.
 
-### Day 4: May 29, 2024
+### Day 4: Wednesday May 29, 2024
+
+**Today's Progress**: Worked on code from section 1.4 of CSI including program 1.2.5 which was on type casting and an emphasis on the importance of data type, as well as the primitive data types in Java. 
+**Thoughts**: Interesting to consider char as a primitives, and not strings, but it makes complete sense since strings are simply concatenated characters. 
+**Link to work**: All code for chapter 1 of CSI is being kept in the repo called hello linked here: [https://github.com/scollinspt/hello]
+
+### Day 5: Thursday May 30, 2024
 
 **Today's Progress**:
 **Thoughts**:
 **Link to work**:
 
-### Day 4: Date
+### Day 6: Friday May 31, 2024
+
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
+
+### Day 7: Saturday June 1, 2024
+
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
+
+### Day 8: Monday June 3, 2024
 
 **Today's Progress**:
 **Thoughts**:
