@@ -1,0 +1,17 @@
+100-Days-Of-Code/
+│
+├── README.md
+├── logs/
+│   ├── day1.md
+│   ├── day2.md
+│   └── ...
+├── projects/
+│   ├── project1/
+│   │   ├── src/
+│   │   └── README.md
+│   ├── project2/
+│   └── ...
+├── .github/
+│   └── workflows/
+│       └── main.yml (if using GitHub Actions)
+└── ...
