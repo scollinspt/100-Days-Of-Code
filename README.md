@@ -43,15 +43,15 @@
 
 ### Day 5: Thursday May 30, 2024
 
-**Today's Progress**: Coded for several exercises at the end of section 1.2 of CIS
+**Today's Progress**: Coded for several exercises at the end of section 1.2 of CSI
 **Thoughts**: Good practice overall. There's something to be said for doing this every day - I'm already feeling more comfortable with the Vim and Git/Github workflow and the repetition of the java language. Even though they are very simple programs as a start, I can see how the daily routine leads to an understanding. Once I get through chapter 1 I'll start adding code to this repository under projects with each chapter being a project.
 **Link to work**: All code for chapter 1 of CSI is being kept in the repo called hello linked here: [https://github.com/scollinspt/hello]
 
 ### Day 6: Friday May 31, 2024
 
-**Today's Progress**:
-**Thoughts**:
-**Link to work**:
+**Today's Progress**:Worked up to - but not through - Exercise 1.2.19 in CSI. Got stuck on a program to generate a pseudorandom integer between two values that are entered as command line arguments. I'll think about this overnight and revisit tomorrow.
+**Thoughts**: Doing the exercises and not rushing through them is an important part of this journey that I've never actually stuck to in the past. I'm hoping it makes the difference.
+**Link to work**: All code for chapter 1 of CSI is being kept in the repo called hello linked here: [https://github.com/scollinspt/hello]
 
 ### Day 7: Saturday June 1, 2024
 
@@ -71,4 +71,9 @@
 **Thoughts**:
 **Link to work**:
 
+### Day 10: Wednesday June 5, 2024
+
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
 
