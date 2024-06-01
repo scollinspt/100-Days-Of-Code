@@ -55,9 +55,9 @@
 
 ### Day 7: Saturday June 1, 2024
 
-**Today's Progress**:
-**Thoughts**:
-**Link to work**:
+**Today's Progress**: Completed CSI section 1.2 exercises. Decided to stop - but did go over an hour. Just don't want to risk getting burnt out after just one week. In this for the long haul, and have not ever made it the full 100 days before. I think the reason I have never made it is that I haven't kept to the plan of just an hour (or maybe a bit over or under an hour). I don't feel the need to do the creative exercises - at this stage I understand data types very well and want to move onto section 1.3 on conditionals and loops.
+**Thoughts**: Pretty much had my thoughts above. I'm not sure whether I'll actually take a day off tomorrow. But I'm going to try. It's good for learning, and good for sustaining for the long haul.
+**Link to work**: All code for chapter 1 continues to be kept in the hello repo [https://github.com/scollins/hello]
 
 ### Day 8: Monday June 3, 2024
 
